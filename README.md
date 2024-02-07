@@ -20,7 +20,7 @@ Make sure you have the following installed:
 - Pandas (for data manipulation)
 - Matplotlib (for plotting)
 
-### Usage
+## Usage
 Navigate to the C1_W2_Linear_Regression.ipynb notebook within the Jupyter interface in your web browser and run the cells sequentially to understand how linear regression is implemented and used.
 
 Feel free to modify the code and use the notebook as a starting point for your own.
